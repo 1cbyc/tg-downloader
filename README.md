@@ -1,5 +1,8 @@
 # tg-downloader
 
+I wanted to download some videos on a channel on telegram, but it did not allow me, figured something out and had to do it for my use. Figured i could make do with the research, instead of doing bad.
+
+
 ### **Approach**
 1. **Telegram Bot API**:
    - Use the Telegram Bot API to interact with Telegram channels/groups.
@@ -51,3 +54,7 @@
 
 3. **Replace Credentials**:
    Update config.py with your Telegram API credentials and phone number.
+
+
+## WARNING!
+FOR EDUCATIONAL PURPOSES ONLY!
