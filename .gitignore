@@ -36,3 +36,6 @@ downloads/*.ogg
 downloads/*.wav
 downloads/*.flac
 downloads/*.aac
+
+# Ignore macOS .DS_Store files
+.DS_Store
