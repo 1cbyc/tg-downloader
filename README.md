@@ -55,6 +55,10 @@ I wanted to download some videos on a channel on telegram, but it did not allow 
 3. **Replace Credentials**:
    Update config.py with your Telegram API credentials and phone number.
 
+---
 
-## WARNING!
-FOR EDUCATIONAL PURPOSES ONLY!
+### **How It Works**
+
+![tg-downloader](Downloads/tg_image_1686754053.png)
+
+This image shows the interface and how the tool operates.

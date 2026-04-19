@@ -1,4 +1,38 @@
-config.py
+# Ignore Python virtual environment
+.venv/
+
+# Ignore session files
 *.session
-downloads/
-__pycache__/config.cpython-314.pyc
+
+# Ignore __pycache__ directories
+__pycache__/
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+*.temp
+
+# downloads
+downloads/*.mp4
+downloads/*.jpg
+downloads/*.png
+downloads/*.jpeg
+downloads/*.gif
+downloads/*.webp
+downloads/*.pdf
+downloads/*.docx
+downloads/*.xlsx
+downloads/*.pptx
+downloads/*.txt
+downloads/*.zip
+downloads/*.rar
+downloads/*.7z
+downloads/*.tar.gz
+downloads/*.tar
+downloads/*.mp3
+downloads/*.ogg
+downloads/*.wav
+downloads/*.flac
+downloads/*.aac
